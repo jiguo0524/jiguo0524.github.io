@@ -12,7 +12,7 @@ title                    : "Ji Guo's Personal Homepage"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://jiguo0524.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : " "# the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
@@ -24,7 +24,7 @@ author:
   avatar           : "jiguo.png"
   name             : "Ji Guo"
   pronouns         : # example: "she/her"  
-  bio              : "#Short biography for the left-hand sidebar"
+  bio              : zzZ
   location         : "China"
   employer         : #"Red Brick University"
   uri              : # URL
@@ -48,7 +48,7 @@ author:
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : #"bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
